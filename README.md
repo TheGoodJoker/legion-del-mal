@@ -10,13 +10,13 @@ Este proyecto contiene:
 ### 📁 Estructura del Repositorio
 
 1. **README.md** - Este archivo, que describe el proyecto y su contenido
-2. **miembros.md** - Lista de todos los miembros actuales de la Legión del Mal (23 miembros)
+2. **miembros.md** - Lista de todos los miembros actuales de la Legión del Mal
 3. **aspirantes/** - Directorio con solicitudes de nuevos aspirantes que quieren unirse a la legión
 4. **_config.yml** - Configuración de Jekyll para la página web del proyecto (tema: Cayman)
 
 ### 👥 Miembros Actuales
 
-El archivo `miembros.md` contiene una lista de 23 supervillanos miembros, incluyendo:
+El archivo `miembros.md` contiene una lista de supervillanos miembros, incluyendo:
 - Lex Luthor
 - The Joker
 - Raven
@@ -28,6 +28,10 @@ El archivo `miembros.md` contiene una lista de 23 supervillanos miembros, incluy
 ### 📝 Sistema de Aspirantes
 
 La carpeta `aspirantes/` almacena las solicitudes de nuevos miembros que desean unirse a la Legión del Mal. Cada aspirante puede crear su propio archivo `.md` con su solicitud.
+
+**Formato de solicitud:**
+- Nombre del archivo: `TuNombre.md`
+- Contenido: Información sobre por qué quieres unirte a la legión
 
 ### 🎯 Propósito
 
